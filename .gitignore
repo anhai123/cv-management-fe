@@ -7,7 +7,6 @@
 dist
 CVManagement/CVManagementAPI/obj
 CVManagement/CVManagementAPI/Migrations
-service/Base/http.ts
 CVManagement/CVManagementAPI/appsettings.json
 
 # Node dependencies
